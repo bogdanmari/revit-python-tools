@@ -301,5 +301,4 @@ def execute():
     ResultForm(logs).ShowDialog()
 
 
-if __name__ == "__main__":
-    execute()
+execute()
